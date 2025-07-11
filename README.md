@@ -3,7 +3,7 @@
 A fun and classic **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
 Play against the computer and test your luck! 🎮
 
-🔗 **Live Demo**: [Play Now](https://amirsuhail21.github.io/my-game/)  
+🔗 **Live Demo**: [Play Now](https://amirsuhail21.github.io/Rock-Paper-Scissors/)  
 📁 **Project Folder Name:** `my-game`
 
 ---
