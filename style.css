@@ -73,86 +73,15 @@ body{
     border: #081b31 double 10px;
     border-bottom: 2px;
     height: 150vmin;
+    flex-direction: column;
 }
 
- /*  
-       CSS Complete 19 Minutes Last Lectures!
-       Then Try Again!
-
-*{
-    padding: 0;
-    margin: 0;
-    text-align: center;
+.credit{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 3.5vmin;
+    font-weight: 900;        /* Extra bold */
+    color: black;
+    font-family: 'Arial Black', 'Segoe UI', sans-serif;
 }
-
-h1{
-    height: 5rem;
-    background-color: #081b31;
-    color: white;
-    line-height: 5rem;
-}
-
-.choices{
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    border-radius: 50%;
-}
-
-.choice:hover{
-    background-color: #081b31;
-    border-radius: 50%;
-    display: flex;
-}
-
-img{
-    height: 150px;
-    width: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    
-}
-.choice{
-    height: 165px;
-    width: 165px;
-    justify-items: center;
-    justify-content: center;
-    align-items: center;
-    margin-top: 5rem;
-
-}
-.score-board{
-    margin-top: 5rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-    font-size: 2rem;
-}
-
-.score{
-    gap: 4rem;
-}
-
-#comp-score{
-    font-size: 5rem;
-}
-
-#user-score{
-    font-size: 5rem;
-}
-
-.msg-container{
-    margin-top: 4rem;
-    margin-bottom: 1rem;
-}
-
-#msg{
-    height: 5rem;
-    background-color: #081b31;
-    color: white;
-    font-size: 3rem;
-    display: inline;
-    border-radius: 1.2rem;
-    padding: 1rem;
-} */
