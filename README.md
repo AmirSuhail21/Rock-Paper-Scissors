@@ -1,10 +1,10 @@
-# 🎮 My Web Game
+# ✊ Rock - 🖐️ Paper - ✌️ Scissors Game
 
-A simple and fun web-based game built using **HTML**, **CSS**, and **JavaScript**.  
-Great for practicing front-end skills and building interactivity with visuals.
+A fun and classic **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
+Play against the computer and test your luck! 🎮
 
-🔗 **Live Demo**: [Play Now](https://amirsuhail21.github.io/Rock-Paper-Scissors/)  
-📁 **Project Folder Name:** `Rock-Paper-Scissors`
+🔗 **Live Demo**: [Play Now](https://amirsuhail21.github.io/my-game/)  
+📁 **Project Folder Name:** `my-game`
 
 ---
 
@@ -13,16 +13,15 @@ Great for practicing front-end skills and building interactivity with visuals.
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **Images** for characters/background
 
 ---
 
 ## 🚀 Features
 
-- 🎯 Interactive gameplay
-- 🖼️ Visual assets (images)
-- 🖱️ Mouse or keyboard based controls
-- ⚡ Lightweight and fast
+- 🤖 Random computer choice
+- 🧠 Win/Loss/Draw logic
+- 🔁 Play again feature
+- 🎨 Clean UI with images
 
 ---
 
