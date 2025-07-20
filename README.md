@@ -8,6 +8,7 @@ Play against the computer and test your luck! 🎮
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 - **HTML5**
@@ -24,8 +25,6 @@ Play against the computer and test your luck! 🎮
 - 🎨 Clean UI with images
 
 ---
-
-## 📂 Folder Structure
 
 Game Screenshot
 <img width="1336" height="654" alt="image" src="https://github.com/user-attachments/assets/c37c24b2-efc3-4582-b8b4-d3b9dbe54f67" />
