@@ -21,8 +21,8 @@ h1{
 }
 
 img{
-    height: 150px;
-    width: 150px;
+    height: 84%;
+    width: 112%;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -31,7 +31,7 @@ img{
     display: flex;
     justify-content: center;
     justify-items: center;
-    gap: 3rem;
+    gap: 1.5rem;
     margin-top: 5rem;
 }
 
@@ -72,7 +72,7 @@ background-color: #081b31;
 body{
     border: #081b31 double 10px;
     border-bottom: 2px;
-    height: 150vmin;
+    height: 80vmin;
     flex-direction: column;
 }
 
@@ -80,7 +80,7 @@ body{
     position: absolute;
     top: 120px;
     left: 20px;
-    font-size: 3.5vmin;
+    font-size: 110%;
     font-weight: 900;        /* Extra bold */
     color: black;
     font-family: 'Arial Black', 'Segoe UI', sans-serif;
